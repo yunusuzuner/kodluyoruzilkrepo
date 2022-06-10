@@ -1,6 +1,6 @@
-![Resim](https://i.hizliresim.com/6eyfrmz.PNG)
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Başlangıç Seviyesi Veri Bilimi Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+![Resim](https://i.hizliresim.com/6eyfrmz.PNG)
 # Installation
 Öncelikle projeyi clonelayın.
 ```
