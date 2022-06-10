@@ -1,3 +1,4 @@
+(https://www.hizliresim.com/6eyfrmz)
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # Installation
