@@ -1,4 +1,4 @@
-![Resim](https://www.hizliresim.com/6eyfrmz)
+![Resim](https://i.hizliresim.com/6eyfrmz.PNG)
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # Installation
