@@ -11,4 +11,4 @@ code .
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 # License
-<a href=”https://choosealicense.com/licenses/mit/”>MIT</a>
+[MIT](https://choosealicense.com/licenses/mit/)
